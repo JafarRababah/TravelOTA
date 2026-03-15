@@ -1,0 +1,6 @@
+@TravelOTA.API_HostAddress = http://localhost:5104
+
+GET {{TravelOTA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
