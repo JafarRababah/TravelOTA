@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\TravelOTA.API.csproj": {}
+    "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\TravelOTA.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\TravelOTA.API.csproj": {
+    "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\TravelOTA.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\TravelOTA.API.csproj",
+        "projectUniqueName": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\TravelOTA.API.csproj",
         "projectName": "TravelOTA.API",
-        "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\TravelOTA.API.csproj",
-        "packagesPath": "C:\\Users\\Jafar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\obj\\",
+        "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\TravelOTA.API.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,6 +25,7 @@
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -32,14 +33,14 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj": {
-                "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj"
+              "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj": {
+                "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj"
               },
-              "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj"
+              "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj"
               },
-              "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj"
+              "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj": {
+                "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj"
               }
             }
           }
@@ -122,24 +123,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj": {
+    "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj",
+        "projectUniqueName": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj",
         "projectName": "TravelOTA.Application",
-        "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj",
-        "packagesPath": "C:\\Users\\Jafar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\obj\\",
+        "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -147,6 +148,7 @@
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -154,11 +156,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj"
+              "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj"
               },
-              "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj"
+              "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj": {
+                "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj"
               }
             }
           }
@@ -216,24 +218,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj": {
+    "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj",
         "projectName": "TravelOTA.Domain",
-        "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj",
-        "packagesPath": "C:\\Users\\Jafar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\obj\\",
+        "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -241,6 +243,7 @@
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -311,24 +314,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj": {
+    "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj",
         "projectName": "TravelOTA.Persistence",
-        "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj",
-        "packagesPath": "C:\\Users\\Jafar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\obj\\",
+        "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -336,6 +339,7 @@
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -343,8 +347,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj": {
-                "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj"
+              "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj"
               }
             }
           }
@@ -430,7 +434,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

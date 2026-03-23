@@ -11,3 +11,16 @@ C:\Users\Jafar\MyGitHub\TicketsReservation\TravelOTA\TravelOTA.Domain\obj\Debug\
 C:\Users\Jafar\MyGitHub\TicketsReservation\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.pdb
 C:\Users\Jafar\MyGitHub\TicketsReservation\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\ref\TravelOTA.Domain.dll
 C:\Users\Jafar\MyGitHub\TicketsReservation\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.csproj.AssemblyReference.cache
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\bin\Debug\net9.0\TravelOTA.Domain.deps.json
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\bin\Debug\net9.0\TravelOTA.Domain.dll
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\bin\Debug\net9.0\TravelOTA.Domain.pdb
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.csproj.AssemblyReference.cache
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.AssemblyInfoInputs.cache
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.AssemblyInfo.cs
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.sourcelink.json
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.dll
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\refint\TravelOTA.Domain.dll
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\TravelOTA.Domain.pdb
+C:\Users\User\MyGitHub\TravelOTA\TravelOTA\TravelOTA\TravelOTA.Domain\obj\Debug\net9.0\ref\TravelOTA.Domain.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TravelOTA.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b95cfd9df9fc5d515f46174f10795928288be9a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c789ec1c8e7e185bb4dc7db5eae36951c69bb46")]
 [assembly: System.Reflection.AssemblyProductAttribute("TravelOTA.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TravelOTA.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2265,23 +2265,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jafar\\.nuget\\packages\\": {},
+    "C:\\Users\\User\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj",
       "projectName": "TravelOTA.Domain",
-      "projectPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj",
-      "packagesPath": "C:\\Users\\Jafar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\obj\\",
+      "projectPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\TravelOTA.Domain.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jafar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2289,6 +2289,7 @@
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -2359,7 +2360,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

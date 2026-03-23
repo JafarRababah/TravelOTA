@@ -20,9 +20,9 @@ https://test.api.amadeus.com/v2/shopping/flight-offers?originLocationCode=DOH&de
 
 
 {
-    "Origin": "JFK",
-    "Destination": "LAX",
-    "DepartureDate": "2026-03-10",
+    "Origin": "DOH",
+    "Destination": "AMM",
+    "DepartureDate": "2026-06-29",
     "Adults": 1
 }
 

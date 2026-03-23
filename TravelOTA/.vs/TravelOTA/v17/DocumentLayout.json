@@ -1,89 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.application\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.application\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|solutionrelative:travelota.application\\createbookingcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.api\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.persistence\\migrations\\20260316212138_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|solutionrelative:travelota.persistence\\migrations\\20260316212138_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.persistence\\travelota.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|solutionrelative:travelota.persistence\\travelota.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.api\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|solutionrelative:travelota.api\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.application\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.application\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|solutionrelative:travelota.application\\createbookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34C91223-82B6-4A2A-B22F-3B95F499EE43}|TravelOTA.Domain\\TravelOTA.Domain.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.domain\\enities\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{34C91223-82B6-4A2A-B22F-3B95F499EE43}|TravelOTA.Domain\\TravelOTA.Domain.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.domain\\enities\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34C91223-82B6-4A2A-B22F-3B95F499EE43}|TravelOTA.Domain\\TravelOTA.Domain.csproj|solutionrelative:travelota.domain\\enities\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.application\\iamadeusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.application\\iamadeusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|solutionrelative:travelota.application\\iamadeusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.application\\travelerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.application\\travelerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|solutionrelative:travelota.application\\travelerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|solutionrelative:travelota.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|solutionrelative:travelota.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.api\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.api\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|solutionrelative:travelota.api\\bookingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.persistence\\migrations\\20260312101759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|solutionrelative:travelota.persistence\\migrations\\20260312101759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.persistence\\data\\traveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.persistence\\data\\traveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|solutionrelative:travelota.persistence\\data\\traveldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.application\\travelota.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.application\\travelota.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|solutionrelative:travelota.application\\travelota.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.application\\flightsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.application\\flightsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|solutionrelative:travelota.application\\flightsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.api\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.api\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|solutionrelative:travelota.api\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.application\\amadeusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.application\\amadeusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|solutionrelative:travelota.application\\amadeusdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.api\\travelota.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.api\\travelota.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{580C418A-D1C3-42FA-B0AC-15F830E876F6}|TravelOTA.API\\TravelOTA.API.csproj|solutionrelative:travelota.api\\travelota.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.persistence\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.persistence\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|solutionrelative:travelota.persistence\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.application\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.application\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0205DAF1-6CFC-4E94-BBB2-1DD82A4169C7}|TravelOTA.Application\\TravelOTA.Application.csproj|solutionrelative:travelota.application\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.persistence\\migrations\\traveldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|solutionrelative:travelota.persistence\\migrations\\traveldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48EF454F-BDE1-4AED-8810-1284B0FAC122}|TravelOTA.Infrastructure\\TravelOTA.Infrastructure.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.infrastructure\\infrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48EF454F-BDE1-4AED-8810-1284B0FAC122}|TravelOTA.Infrastructure\\TravelOTA.Infrastructure.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.infrastructure\\infrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48EF454F-BDE1-4AED-8810-1284B0FAC122}|TravelOTA.Infrastructure\\TravelOTA.Infrastructure.csproj|solutionrelative:travelota.infrastructure\\infrastructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\jafar\\mygithub\\ticketsreservation\\travelota\\travelota.persistence\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|c:\\users\\user\\mygithub\\travelota\\travelota\\travelota\\travelota.persistence\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{374D6376-D0F5-4CFA-B2B0-0DA00E38BC3B}|TravelOTA.Persistence\\TravelOTA.Persistence.csproj|solutionrelative:travelota.persistence\\persistence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,298 +90,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateBookingCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\CreateBookingCommand.cs",
-              "RelativeDocumentMoniker": "TravelOTA.Application\\CreateBookingCommand.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\CreateBookingCommand.cs",
-              "RelativeToolTip": "TravelOTA.Application\\CreateBookingCommand.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:08:23.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\AuthController.cs",
-              "RelativeDocumentMoniker": "TravelOTA.API\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\AuthController.cs",
-              "RelativeToolTip": "TravelOTA.API\\AuthController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:29:03.601Z",
-              "EditorCaption": ""
+              "Title": "TravelOTA.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj",
+              "RelativeDocumentMoniker": "TravelOTA.Persistence\\TravelOTA.Persistence.csproj",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\TravelOTA.Persistence.csproj",
+              "RelativeToolTip": "TravelOTA.Persistence\\TravelOTA.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T21:19:38.778Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CreateBookingCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\CreateBookingCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\CreateBookingCommandHandler.cs",
               "RelativeDocumentMoniker": "TravelOTA.Application\\CreateBookingCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\CreateBookingCommandHandler.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\CreateBookingCommandHandler.cs",
               "RelativeToolTip": "TravelOTA.Application\\CreateBookingCommandHandler.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAuwEEAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-24T14:11:33.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IAmadeusService.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\IAmadeusService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\IAmadeusService.cs",
               "RelativeDocumentMoniker": "TravelOTA.Application\\IAmadeusService.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\IAmadeusService.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\IAmadeusService.cs",
               "RelativeToolTip": "TravelOTA.Application\\IAmadeusService.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAqwIAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:13:32.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TravelerDto.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelerDto.cs",
-              "RelativeDocumentMoniker": "TravelOTA.Application\\TravelerDto.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelerDto.cs",
-              "RelativeToolTip": "TravelOTA.Application\\TravelerDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:03:16.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Domain.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\Enities\\Domain.cs",
-              "RelativeDocumentMoniker": "TravelOTA.Domain\\Enities\\Domain.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Domain\\Enities\\Domain.cs",
-              "RelativeToolTip": "TravelOTA.Domain\\Enities\\Domain.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAD4v0kAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T12:58:20.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T13:13:32.968Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\appsettings.json",
-              "RelativeDocumentMoniker": "TravelOTA.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\appsettings.json",
-              "RelativeToolTip": "TravelOTA.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-27T08:18:56.433Z",
-              "EditorCaption": ""
+              "Title": "TravelerDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelerDto.cs",
+              "RelativeDocumentMoniker": "TravelOTA.Application\\TravelerDto.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelerDto.cs",
+              "RelativeToolTip": "TravelOTA.Application\\TravelerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:03:16.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\Program.cs",
-              "RelativeDocumentMoniker": "TravelOTA.API\\Program.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\Program.cs",
-              "RelativeToolTip": "TravelOTA.API\\Program.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20260316212138_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\Migrations\\20260316212138_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TravelOTA.Persistence\\Migrations\\20260316212138_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\Migrations\\20260316212138_InitialCreate.cs",
+              "RelativeToolTip": "TravelOTA.Persistence\\Migrations\\20260316212138_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T08:20:41.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T21:21:39.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\AuthController.cs",
+              "RelativeDocumentMoniker": "TravelOTA.API\\AuthController.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\AuthController.cs",
+              "RelativeToolTip": "TravelOTA.API\\AuthController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T13:29:03.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateBookingCommand.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\CreateBookingCommand.cs",
+              "RelativeDocumentMoniker": "TravelOTA.Application\\CreateBookingCommand.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\CreateBookingCommand.cs",
+              "RelativeToolTip": "TravelOTA.Application\\CreateBookingCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T13:08:23.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\Enities\\Domain.cs",
+              "RelativeDocumentMoniker": "TravelOTA.Domain\\Enities\\Domain.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Domain\\Enities\\Domain.cs",
+              "RelativeToolTip": "TravelOTA.Domain\\Enities\\Domain.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4v0kAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:58:20.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BookingsController.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\BookingsController.cs",
-              "RelativeDocumentMoniker": "TravelOTA.API\\BookingsController.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\BookingsController.cs",
-              "RelativeToolTip": "TravelOTA.API\\BookingsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\Program.cs",
+              "RelativeDocumentMoniker": "TravelOTA.API\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\Program.cs",
+              "RelativeToolTip": "TravelOTA.API\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:48:21.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T08:20:41.26Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "20260312101759_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\Migrations\\20260312101759_InitialCreate.cs",
-              "RelativeDocumentMoniker": "TravelOTA.Persistence\\Migrations\\20260312101759_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\Migrations\\20260312101759_InitialCreate.cs",
-              "RelativeToolTip": "TravelOTA.Persistence\\Migrations\\20260312101759_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Title": "BookingsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\BookingsController.cs",
+              "RelativeDocumentMoniker": "TravelOTA.API\\BookingsController.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\BookingsController.cs",
+              "RelativeToolTip": "TravelOTA.API\\BookingsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T10:18:00.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T13:48:21.852Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "TravelDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\Data\\TravelDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\Data\\TravelDbContext.cs",
               "RelativeDocumentMoniker": "TravelOTA.Persistence\\Data\\TravelDbContext.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\Data\\TravelDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\Data\\TravelDbContext.cs",
               "RelativeToolTip": "TravelOTA.Persistence\\Data\\TravelDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T16:34:31.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T16:34:31.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "TravelOTA.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj",
               "RelativeDocumentMoniker": "TravelOTA.Application\\TravelOTA.Application.csproj",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\TravelOTA.Application.csproj",
               "RelativeToolTip": "TravelOTA.Application\\TravelOTA.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-25T14:13:50.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-25T14:13:50.231Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "FlightSearchRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\FlightSearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\FlightSearchRequest.cs",
               "RelativeDocumentMoniker": "TravelOTA.Application\\FlightSearchRequest.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\FlightSearchRequest.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\FlightSearchRequest.cs",
               "RelativeToolTip": "TravelOTA.Application\\FlightSearchRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:58:54.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T13:58:54.147Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "FlightsController.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\FlightsController.cs",
               "RelativeDocumentMoniker": "TravelOTA.API\\FlightsController.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\FlightsController.cs",
               "RelativeToolTip": "TravelOTA.API\\FlightsController.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAowHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:21:34.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T13:21:34.858Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "AmadeusDtos.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\AmadeusDtos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\AmadeusDtos.cs",
               "RelativeDocumentMoniker": "TravelOTA.Application\\AmadeusDtos.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\AmadeusDtos.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\AmadeusDtos.cs",
               "RelativeToolTip": "TravelOTA.Application\\AmadeusDtos.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA3wB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T16:04:30.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T16:04:30.631Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "TravelOTA.API.http",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\TravelOTA.API.http",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\TravelOTA.API.http",
               "RelativeDocumentMoniker": "TravelOTA.API\\TravelOTA.API.http",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.API\\TravelOTA.API.http",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.API\\TravelOTA.API.http",
               "RelativeToolTip": "TravelOTA.API\\TravelOTA.API.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-03-07T12:05:20.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-07T12:05:20.321Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "TravelOTA.Persistence\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\ApplicationUser.cs",
               "RelativeToolTip": "TravelOTA.Persistence\\ApplicationUser.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAEBVwA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T13:36:11.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T13:36:11.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "Application.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\Application.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\Application.cs",
               "RelativeDocumentMoniker": "TravelOTA.Application\\Application.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Application\\Application.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Application\\Application.cs",
               "RelativeToolTip": "TravelOTA.Application\\Application.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T13:07:35.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T13:07:35.289Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "TravelDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\Migrations\\TravelDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "TravelOTA.Persistence\\Migrations\\TravelDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\Migrations\\TravelDbContextModelSnapshot.cs",
-              "RelativeToolTip": "TravelOTA.Persistence\\Migrations\\TravelDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAgAAAARAAAAAAAAAA==",
+              "Title": "Infrastructure.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Infrastructure\\Infrastructure.cs",
+              "RelativeDocumentMoniker": "TravelOTA.Infrastructure\\Infrastructure.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Infrastructure\\Infrastructure.cs",
+              "RelativeToolTip": "TravelOTA.Infrastructure\\Infrastructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T11:26:47.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-24T11:41:31.823Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Infrastructure.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Infrastructure\\Infrastructure.cs",
-              "RelativeDocumentMoniker": "TravelOTA.Infrastructure\\Infrastructure.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Infrastructure\\Infrastructure.cs",
-              "RelativeToolTip": "TravelOTA.Infrastructure\\Infrastructure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-24T11:41:31.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "Persistence.cs",
-              "DocumentMoniker": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\Persistence.cs",
+              "DocumentMoniker": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\Persistence.cs",
               "RelativeDocumentMoniker": "TravelOTA.Persistence\\Persistence.cs",
-              "ToolTip": "C:\\Users\\Jafar\\MyGitHub\\TicketsReservation\\TravelOTA\\TravelOTA.Persistence\\Persistence.cs",
+              "ToolTip": "C:\\Users\\User\\MyGitHub\\TravelOTA\\TravelOTA\\TravelOTA\\TravelOTA.Persistence\\Persistence.cs",
               "RelativeToolTip": "TravelOTA.Persistence\\Persistence.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T13:12:48.815Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 304,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2026-02-17T13:12:48.815Z"
             }
           ]
         }
