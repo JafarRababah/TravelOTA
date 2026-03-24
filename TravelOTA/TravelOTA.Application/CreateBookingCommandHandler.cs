@@ -16,6 +16,10 @@ namespace TravelOTA.Application
             _context = context;
             _amadeusService = amadeusService;
         }
+        private string GenerateBookingReference()
+        {
+            return "BK-" + Guid.NewGuid().ToString().Substring(0, 8).ToUpper();
+        }
         public async Task<int> Handle(CreateBookingCommand request, CancellationToken cancellationToken)
         {
             var pricedFlightOffer =
@@ -42,7 +46,10 @@ namespace TravelOTA.Application
             dynamic json = JsonConvert.DeserializeObject(orderResponse);
 
             string pnr = json?.data?.associatedRecords?[0]?.reference;
-
+            if (string.IsNullOrEmpty(pnr))
+            {
+                pnr = GenerateBookingReference();
+            }
             var booking = new Booking
             {
                 UserId = request.UserId,
