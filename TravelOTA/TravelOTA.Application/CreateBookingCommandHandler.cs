@@ -5,59 +5,40 @@ using TravelOTA.Persistence.Data;
 
 namespace TravelOTA.Application
 {
-    public class CreateBookingCommandHandler : IRequestHandler<CreateBookingCommand, int>
+    // public class CreateBookingCommandHandler : IRequestHandler<CreateBookingCommand, int>
+    public class CreateBookingCommandHandler
+    : IRequestHandler<CreateBookingCommand, CreateBookingResponse>
     {
         private readonly TravelDbContext _context;
         private readonly IAmadeusService _amadeusService;
+        private readonly PaymentService _paymentService;
         public CreateBookingCommandHandler(
         TravelDbContext context,
-        IAmadeusService amadeusService)
+        IAmadeusService amadeusService,
+        PaymentService paymentService)
         {
             _context = context;
             _amadeusService = amadeusService;
+            _paymentService = paymentService;
         }
         private string GenerateBookingReference()
         {
             return "BK-" + Guid.NewGuid().ToString().Substring(0, 8).ToUpper();
         }
-        public async Task<int> Handle(CreateBookingCommand request, CancellationToken cancellationToken)
+        // public async Task<object> Handle(CreateBookingCommand request, CancellationToken cancellationToken)
+        public async Task<CreateBookingResponse> Handle(
+     CreateBookingCommand request,
+     CancellationToken cancellationToken)
         {
-            var pricedFlightOffer =
-                JsonConvert.DeserializeObject<object>(request.FlightOfferJson);
-
-            var firstTraveler = request.Travelers.First();
-
-            var orderResponse = await _amadeusService.CreateFlightOrderAsync(
-                pricedFlightOffer,
-                new Traveler
-                {
-                    FirstName = firstTraveler.FirstName,
-                    LastName = firstTraveler.LastName,
-                    DateOfBirth = firstTraveler.DateOfBirth,
-                    Gender = firstTraveler.Gender,
-                    Email = firstTraveler.Email,
-                    PhoneCountryCode = firstTraveler.PhoneCountryCode,
-                    PhoneNumber = firstTraveler.PhoneNumber,
-                    PassportNumber = firstTraveler.PassportNumber,
-                    PassportExpiry = firstTraveler.PassportExpiry,
-                    Nationality = firstTraveler.Nationality
-                });
-            Console.WriteLine(orderResponse);
-            dynamic json = JsonConvert.DeserializeObject(orderResponse);
-
-            string pnr = json?.data?.associatedRecords?[0]?.reference;
-            if (string.IsNullOrEmpty(pnr))
-            {
-                pnr = GenerateBookingReference();
-            }
+            // 1️⃣ إنشاء Booking فقط
             var booking = new Booking
             {
                 UserId = request.UserId,
-                BookingReference = pnr,
+                BookingReference = GenerateBookingReference(), // مؤقت
                 TotalAmount = request.TotalAmount,
                 Currency = request.Currency,
                 FlightOfferJson = request.FlightOfferJson,
-                Status = "Confirmed",
+                Status = "Pending",
                 CreatedAt = DateTime.UtcNow,
 
                 Travelers = request.Travelers.Select(t => new Traveler
@@ -76,22 +57,79 @@ namespace TravelOTA.Application
             };
 
             _context.Bookings.Add(booking);
-
             await _context.SaveChangesAsync(cancellationToken);
 
-            return booking.Id;
+            // 2️⃣ إنشاء PaymentIntent
+            var paymentIntent = await _paymentService
+                .CreatePaymentIntent(booking.TotalAmount, booking.Currency);
+
+
+            // 3️⃣ إنشاء Payment
+            var payment = new Payment
+            {
+                BookingId = booking.Id,
+                Amount = booking.TotalAmount,
+                PaymentGateway = "Stripe",
+                TransactionId = paymentIntent.Id,
+                Status = "Pending"
+            };
+
+            _context.Payments.Add(payment);
+            await _context.SaveChangesAsync(cancellationToken);
+
+            // 4️⃣ رجّع للـ Frontend
+            //return new
+            //{
+            //    BookingId = booking.Id,
+            //    ClientSecret = paymentIntent.ClientSecret
+            //};
+            return new CreateBookingResponse
+            {
+                BookingId = booking.Id,
+                ClientSecret = paymentIntent.ClientSecret
+            };
         }
         //public async Task<int> Handle(CreateBookingCommand request, CancellationToken cancellationToken)
         //{
+        //    var pricedFlightOffer =
+        //        JsonConvert.DeserializeObject<object>(request.FlightOfferJson);
+
+        //    var firstTraveler = request.Travelers.First();
+
+        //    var orderResponse = await _amadeusService.CreateFlightOrderAsync(
+        //        pricedFlightOffer,
+        //        new Traveler
+        //        {
+        //            FirstName = firstTraveler.FirstName,
+        //            LastName = firstTraveler.LastName,
+        //            DateOfBirth = firstTraveler.DateOfBirth,
+        //            Gender = firstTraveler.Gender,
+        //            Email = firstTraveler.Email,
+        //            PhoneCountryCode = firstTraveler.PhoneCountryCode,
+        //            PhoneNumber = firstTraveler.PhoneNumber,
+        //            PassportNumber = firstTraveler.PassportNumber,
+        //            PassportExpiry = firstTraveler.PassportExpiry,
+        //            Nationality = firstTraveler.Nationality
+        //        });
+        //    Console.WriteLine(orderResponse);
+        //    dynamic json = JsonConvert.DeserializeObject(orderResponse);
+
+        //    // string pnr = json?.data?.associatedRecords?[0]?.reference;
+        //    string pnr = json?.data?.associatedRecords?[0]?.reference
+        //   ?? json?.data?.id;
+        //    if (string.IsNullOrEmpty(pnr))
+        //    {
+        //        pnr = GenerateBookingReference();
+        //    }
         //    var booking = new Booking
         //    {
         //        UserId = request.UserId,
-        //        BookingReference = request.FlightNumber,
+        //        BookingReference = pnr,
         //        TotalAmount = request.TotalAmount,
         //        Currency = request.Currency,
         //        FlightOfferJson = request.FlightOfferJson,
-        //        Status = "Pending",
-        //        CreatedAt = request.TravelDate,
+        //        Status = "Confirmed",
+        //        CreatedAt = DateTime.UtcNow,
 
         //        Travelers = request.Travelers.Select(t => new Traveler
         //        {
@@ -114,5 +152,6 @@ namespace TravelOTA.Application
 
         //    return booking.Id;
         //}
+
     }
 }

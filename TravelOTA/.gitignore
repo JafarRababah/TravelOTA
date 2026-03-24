@@ -1,2 +1,6 @@
 appsettings.json
-**/appsettings.json
+**/appsettings.json".vs/" 
+"**/bin/" 
+"**/obj/" 
+"**/appsettings.json" 
+"!**/appsettings.example.json" 

@@ -22,15 +22,19 @@ namespace TravelOTA.Application
         public class AmadeusPrice
         {
             public string Currency { get; set; } = "";
-            public string Total { get; set; } = "";
+            public decimal Total { get; set; } =0;
         }
 
         public class AmadeusItinerary
         {
             public List<AmadeusSegment> Segments { get; set; } = new();
         }
-
-        public class AmadeusSegment
+    public class CreateBookingResponse
+    {
+        public int BookingId { get; set; }
+        public string ClientSecret { get; set; }
+    }
+    public class AmadeusSegment
         {
             public AmadeusFlightPoint Departure { get; set; } = new();
             public AmadeusFlightPoint Arrival { get; set; } = new();

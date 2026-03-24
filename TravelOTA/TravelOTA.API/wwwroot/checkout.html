@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Checkout</title>
+
+    <!-- Stripe JS -->
+    <script src="https://js.stripe.com/v3/"></script>
+
+    <style>
+        body {
+            font-family: Arial;
+            padding: 40px;
+        }
+
+        #card-element {
+            border: 1px solid #ccc;
+            padding: 12px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            width: 300px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: black;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+            button:hover {
+                background-color: #333;
+            }
+    </style>
+</head>
+<body>
+
+    <h2>💳 Pay for your booking</h2>
+
+    <!-- Stripe Card Input -->
+    <div id="card-element"></div>
+
+    <!-- Pay Button -->
+    <button id="pay-btn">Pay Now</button>
+
+    <!-- ربط JavaScript -->
+    <script src="checkout.js"></script>
+
+</body>
+</html>
